@@ -1,2 +1,2 @@
 # kieranwebsite
-Source code for my portfolio, hosted at kieranchafin.com
+src for my portfolio, hosted at kieranchafin.com
