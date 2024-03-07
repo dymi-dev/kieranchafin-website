@@ -1,2 +1,2 @@
-# kieranwebsite
-src for my portfolio, hosted at kieranchafin.com
+# dymi website
+src for my website, hosted at dymi.dev
